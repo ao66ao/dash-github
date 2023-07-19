@@ -2,7 +2,7 @@ title: GitHub Site Building Practice # EDIT: Fill this in
 description: This is a page for learning to use Markdown and GitHub Pages # EDIT: Fill this in
 
 remote_theme: pmarsceill/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
-github_repo_url: "https://ao66ao.github.io" # EDIT: REPLACE WITH THE URL TO YOUR WEBPAGE
+github_repo_url: "https://ao66ao.github.io/dash-github/" # EDIT: REPLACE WITH THE URL TO YOUR WEBPAGE
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page. (true or false)
