@@ -5,3 +5,6 @@ nav_order: 2
 ---
 
 This is a second page.
+
+Look there is a video: Practice!  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eGDBR2L5kzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
