@@ -26,7 +26,7 @@ Attribution: Poppy flower on the edge of the field in Froebelstrasse in Dülmen,
 
 Hey look, an image uploaded to the repository:  
 ![Image of a sun at the beach.](images/sun.jpg)
-Attribution: ![Sunset image from Wikimedia under CCO / Public Domain](https://commons.wikimedia.org/wiki/File:Sunset_Over_The_Plains_(172390633).jpeg)
+Attribution: [Sunset image from Wikimedia under CCO / Public Domain](https://commons.wikimedia.org/wiki/File:Sunset_Over_The_Plains_(172390633).jpeg)
 
 This is a numbered list: 
 1. Thing 1
