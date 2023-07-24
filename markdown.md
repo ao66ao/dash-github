@@ -13,8 +13,7 @@ Here's everything I've learned so far.
 ### Heading Level 3
 For paragraphs, add a blank line. 
 
-But for line breaks  
-add to spaces at the end of a line.
+See, this is a new paragraph.
 
 **This is bold text.**  
 *This is italicized text.*  
